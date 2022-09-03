@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KhojiakbarYokubjonov
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Mobile Applications
+- 📫 You can reach me at khojiakbar.7799@gmail.com
