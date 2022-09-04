@@ -1,0 +1,10 @@
+heuristic: cost = 3.396930754184723, 0 milliseconds
+mine: cost = 1.356677532196045, 20 milliseconds
+backtrack: cost = 1.356677532196045, 1427 milliseconds
+************************README*************************
+The heuristic approach has the shortest runtime since it 
+only finds one possible path while the other two functions 
+find multiple paths and return the most efficient one. In my 
+variation, I have improved the backtracking approach. Thus, 
+it has a better performance since it stops the recursion 
+when the current cost is higher than the existing minimum cost.
