@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Khojiakbar Yokubjonov
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Mobile Applications
+- 🌱 Here, you can find some of my personal projects
 - 📫 You can reach me at khojiakbar.7799@gmail.com
